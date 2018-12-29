@@ -1,0 +1,2 @@
+# NewCore
+Just A NewCore
